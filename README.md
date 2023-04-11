@@ -1,6 +1,6 @@
 # Counter Forms Character Set
 
-The character covered by all fonts Counter Forms releases.
+The character set covered by all fonts published by Counter Forms.
 
 ## Glyphs Filter
 
