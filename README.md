@@ -1,6 +1,6 @@
 # Counter Forms Character Set
 
-The character set covered by all fonts published by Counter Forms.
+The character set covered by all fonts published by Counter Forms. It’s based on Christoph Koeberlin’s [Latin Character Sets](https://github.com/koeberlin/Latin-Character-Sets).
 
 ## Glyphs Filter
 
