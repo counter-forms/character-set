@@ -1,6 +1,6 @@
 # Counter Forms Character Set
 
-The character set covered by all fonts published by Counter Forms. It’s based on Christoph Koeberlin’s [Latin Character Sets](https://github.com/koeberlin/Latin-Character-Sets).
+Here is the minimum character set covered by all Counter Forms typefaces. It is based on Christoph Koeberlin’s excellent [Latin-M Character Set](https://github.com/koeberlin/Latin-Character-Sets) with a few additions to account for all Aboriginal and Torres Strait Islander languages.
 
 ## Glyphs Filter
 
